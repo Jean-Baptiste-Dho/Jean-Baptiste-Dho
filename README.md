@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Jean-Baptiste-Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=dracula)
+<a href="https://github.com/Jean-Baptiste-Dho/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=dracula)" />
+</a>
 <!--
 **Jean-Baptiste-Dho/Jean-Baptiste-Dho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
