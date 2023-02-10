@@ -15,7 +15,11 @@ Avec ses compétences, je compte excercer dans ce domaine en tant que développe
 ![Jean-Baptiste-Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=radical)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)" />
+  </a>
+</p>
 
 
  
