@@ -13,15 +13,18 @@ Avec ses compétences, je compte excercer dans ce domaine en tant que développe
 Site CV : https://dho-jb-webdeveloppeur.fr<br>
 MAJ : 10/02/2023
 ***
-### Skills (dailies improvements):
+### Skills (dailies improvements :wink: ):
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs,mysql,php,wordpress,figma)](https://skillicons.dev)
+
+#### IDE : 
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### GitHub Stats :
 
 ![Jean-Baptiste-Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=radical)
 
-#### Languages (speak-write) :
+#### Languages (speaking & writing) :
 English, French (native)
 
 <!--
