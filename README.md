@@ -1,4 +1,4 @@
- <img src="github-banniere-jb.png" alt="banniere" width="1000" height="200"> 
+ <img src="github-banniere-jb.png" alt="banniere" width="1000" height="300"> 
 
 # Hi there 👋
 
