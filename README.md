@@ -7,15 +7,15 @@ RECHERCHE ACTIVEMENT UN STAGE DE DEUX MOIS ET DEMI DU 17 AVRIL AU 30 JUIN 2023.
 ## About me :
 
 Nouveau développeur récemment arrivé sur Github !
-Après une carrière de 15 dans l'optique, j'ai décidé d'entreprendre une formation dans un domaine qui me passionne depuis longtemps : le développement web.
+Après une carrière de 15 dans l'optique, j'ai décidé d'entreprendre une formation dans un domaine qui me passionne depuis longtemps : le développement web.<br>
 Avec ses compétences, je compte excercer dans ce domaine en tant que développeur full-stack.
 ***
 Site CV : https://dho-jb-webdeveloppeur.fr<br>
 MAJ : 10/02/2023
 ***
-### Skills :
+### Skills (dailies improvements):
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs,mysql,php)](https://skillicons.dev)
 
 ### GitHub Stats :
 
