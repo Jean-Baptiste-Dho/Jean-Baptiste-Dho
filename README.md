@@ -1,4 +1,4 @@
- <img src="github-banniere-jb.webp" alt="banniere" width="80%" height="20%"> 
+ <img src="github-banniere-jb.webp" alt="banniere" width="100%" height="25%"> 
 
 # Hi there 👋
 
