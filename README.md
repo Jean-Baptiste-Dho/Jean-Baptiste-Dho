@@ -18,7 +18,8 @@ MAJ : 10/02/2023
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs,mysql,php,wordpress,figma)](https://skillicons.dev)
 
 #### IDE : 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) : ****
+[![My Skills](https://skillicons.dev/icons?i=sublimtext)](https://skillicons.dev) : **
 
 ### GitHub Stats :
 
