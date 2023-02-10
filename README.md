@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Actuellement en formation développeur web et web mobile.
+Futur développeur web et web mobile.
 
 RECHERCHE ACTIVEMENT UN STAGE DE DEUX MOIS ET DEMI DU 17 AVRIL AU 30 JUIN 2023.
 ***
