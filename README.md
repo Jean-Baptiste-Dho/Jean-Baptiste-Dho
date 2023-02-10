@@ -1,3 +1,5 @@
+ <img src="img_girl.jpg" alt="banniere" width="500" height="600"> 
+
 # Hi there 👋
 
 Futur développeur web et web mobile.
@@ -10,9 +12,9 @@ Nouveau développeur récemment arrivé sur Github !<br>
 Après une carrière de 15 dans l'optique, j'ai entrepris une reconversion dans un domaine qui me passionne depuis longtemps : le développement web.<br>
 Avec ces nouvelles compétences, je compte devenir développeur full-stack.<br>
 *<br>
-New developer recently arrived on Github !<br>
-After a 15 years carrere as an optician, I undertook a reconversion in a field that has long fascinated me: web development. <br>
-With this news skills, I intend to become a full-stack developer.
+A new developer just arrived on GitHub !
+After a 15 years career as an optician, I decided to change paths towards a field that has long fascinated me : web development.
+With this news skills, my goal is to become a full-stack developer.
 ***
 Website : https://dho-jb-webdeveloppeur.fr<br>
 Update : 10/02/2023
