@@ -12,7 +12,7 @@ Avec ses compétences, je compte excercer dans ce domaine en tant que développe
 ***
 ### Languages :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,jquery,nodejs,npm)](https://skillicons.dev)
 
 ### GitHub Stats :
 
