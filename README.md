@@ -8,8 +8,8 @@ RECHERCHE ACTIVEMENT UN STAGE DE DEUX MOIS ET DEMI DU 17 AVRIL AU 30 JUIN 2023.
 
 Nouveau développeur récemment arrivé sur Github !<br>
 Après une carrière de 15 dans l'optique, j'ai entrepris une reconversion dans un domaine qui me passionne depuis longtemps : le développement web.<br>
-Avec ces nouvelles compétences, je compte devenir développeur full-stack.
-*
+Avec ces nouvelles compétences, je compte devenir développeur full-stack.<br>
+*<br>
 New developer recently arrived on Github !<br>
 After a 15 years carrere as an optician, I undertook a reconversion in a field that has long fascinated me: web development. <br>
 With this news skills, I intend to become a full-stack developer.
