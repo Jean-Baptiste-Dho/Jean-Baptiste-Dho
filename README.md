@@ -13,8 +13,6 @@ Avec ces nouvelles compétences, je compte devenir développeur full-stack.<br>
 New developer recently arrived on Github !<br>
 After a 15 years carrere as an optician, I undertook a reconversion in a field that has long fascinated me: web development. <br>
 With this news skills, I intend to become a full-stack developer.
-
-Freshly new
 ***
 Website : https://dho-jb-webdeveloppeur.fr<br>
 Update : 10/02/2023
