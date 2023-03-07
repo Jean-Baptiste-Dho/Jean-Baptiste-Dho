@@ -28,7 +28,7 @@ Update : 10/02/2023
 
 ### GitHub Stats :
 
-![Jean-Baptiste-Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=radical&count_private=true)
+![Jean-Baptiste-Dho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Baptiste-Dho&show_icons=true&theme=radical)
 
 #### Languages (speaking & writing) :
 English, French
