@@ -20,10 +20,10 @@ Update : 10/02/2023
 ***
 ### Skills (dailies improvements :wink: ):
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,react,nodejs,mysql,php,wordpress,symfony,pnpm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,sass,react,symfony,mysql,nodejs,npm,wordpress)](https://skilliconsdev)
+ IDE : 
 
-#### IDE : 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+###My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ### GitHub Stats :
 
