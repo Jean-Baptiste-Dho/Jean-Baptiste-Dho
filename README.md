@@ -9,11 +9,11 @@ Futur développeur web et web mobile.
 
 Nouveau développeur récemment arrivé sur Github !<br>
 Après une carrière de 15 dans l'optique, j'ai entrepris une reconversion dans un domaine qui me passionne depuis longtemps : le développement web.<br>
-Avec ces nouvelles compétences, je compte devenir développeur full-stack.<br>
+Avec ces nouvelles compétences, je compte devenir développeur full-stack. Actuellement en stage, il est possible que mon activité sur GitHub soit réduite...<br>
 *<br>
 A new developer just arrived on GitHub !
 After a 15 years career as an optician, I decided to change paths towards a field that has long fascinated me : web development.
-With this news skills, my goal is to become a full-stack developer.
+With this news skills, my goal is to become a full-stack developer. Currently on trainning course, my GitHub activity may be reduce...
 ***
 Website : https://dho-jb-webdeveloppeur.fr<br>
 Update : 10/02/2023
